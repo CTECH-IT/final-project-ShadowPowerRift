@@ -1,0 +1,12 @@
+.meme_header {
+    position: Relative;
+    margin:auto;
+    left: 45%;
+    margin-bottom: 60px;
+}
+
+.meme_image {
+    position: relative;
+    left: 36.5%;
+    width: 600px;
+}
